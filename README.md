@@ -2,7 +2,7 @@
 
 ## Top 50 Repositorios de GitHub
 
-Este es un proyecto de una aplicación web simple creada con JavaScript Vanilla para mostrar los 50 repositorios más populares de GitHub. Utiliza la API pública de GitHub para obtener los repositorios y los muestra en forma de tarjetas en la página web.
+Este es un proyecto de una SPA (Single Page Application) creada con JavaScript Vanilla para mostrar los 50 repositorios más populares de GitHub. Utiliza la API pública de GitHub para obtener los repositorios y los muestra en forma de tarjetas en la página web.
 
 ### Características
 
