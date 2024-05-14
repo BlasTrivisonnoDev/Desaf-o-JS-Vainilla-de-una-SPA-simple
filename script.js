@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     }
                 });
 
-                // Check if there are more pages and if we need more repositories
+            
                 if (nextPageUrl && repoCount < 50) {
                     fetchRepos(nextPageUrl);
                 }
