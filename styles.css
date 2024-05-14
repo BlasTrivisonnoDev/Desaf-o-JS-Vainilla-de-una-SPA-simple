@@ -28,7 +28,7 @@ body {
 }
 
 .repo:hover {
-    transform: translateY(-10px); /* Ajustado el valor a -10px para mover más */
+    transform: translateY(-10px); 
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
 }
 
@@ -45,12 +45,12 @@ body {
 
 .repo a {
     text-decoration: none;
-    color: #f1c40f; /* Cambiado a amarillo */
+    color: #f1c40f;
     transition: color 0.3s ease;
 }
 
 .repo a:hover {
-    color: #f39c12; /* Cambiado a un tono más oscuro de amarillo */
+    color: #f39c12; 
 }
 
 h1 {
